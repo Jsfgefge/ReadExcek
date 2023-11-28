@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "chai": "^4.3.10",
+    "exceljs": "^4.4.0",
+    "mocha": "^10.2.0"
+  }
+}
